@@ -1,0 +1,3 @@
+# Local secrets / machine config (copy from config.example.ini)
+scripts/config.local.ini
+*.local.ini
